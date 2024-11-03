@@ -1,0 +1,52 @@
+[{
+    "Tube": false,
+    "favourite_tram" : 18,
+    "types_of_public tramsport": ["tram", "bus", " taxi", "train"],
+    "bus_destination":{"235": "borek falencki", "223": "czerowne maki"},
+    "favourite train": "SKA2",
+    "probability of delay": 99.999999
+}, 
+{
+"Tube": false,
+"favourite_tram" : 18,
+"types_of_public tramsport": ["tram", "bus", " taxi", "train"],
+"bus_destination":{"235": "borek falencki", "223": "czerowne maki"},
+"favourite train": "SKA2"
+
+},
+{
+"Tube": false,
+"favourite_tram" : 18,
+"types_of_public tramsport": ["tram", "bus", " taxi", "train"],
+"bus_destination":{"235": "borek falencki", "223": "czerowne maki"},
+"favourite train": "SKA2",
+"probability of delay": 99.999999
+
+},
+{
+"Tube": false,
+"favourite_tram" : 18,
+"types_of_public tramsport": ["tram", "bus", " taxi", "train"],
+"bus_destination":{"235": "borek falencki", "223": "czerowne maki"},
+"favourite train": "SKA2",
+"probability of delay": 99.999999
+
+},
+{
+"Tube": false,
+"favourite_tram" : 18,
+"types_of_public tramsport": ["tram", "bus", " taxi", "train"],
+"bus_destination":{"235": "borek falencki", "223": "czerowne maki"},
+"favourite train": "SKA2",
+"probability of delay": 99.999999
+
+},
+{
+    "Tube": false,
+    "favourite_tram" : 18,
+    "types_of_public tramsport": ["tram", "bus", " taxi", "train"],
+    "bus_destination":{"235": "borek falencki", "223": "czerowne maki"},
+    "favourite train": "SKA2",
+    "probability of delay": 99.999999
+    }
+]
