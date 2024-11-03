@@ -1,8 +1,8 @@
 # TEAM
 
-  1. Jakub Baran - Kuverr -
-  1. Ignacy Dudziak - Igusilla -
-  1. Krzysztof Kurlit - scoutwer -
+  1. Jakub Baran - Kuverr - task 2, 3
+  1. Ignacy Dudziak - Igusilla - task 1, 6
+  1. Krzysztof Kurlit - scoutwer - task 4, 5
 
 ## Introduction
 
