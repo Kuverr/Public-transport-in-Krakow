@@ -23,3 +23,4 @@ Poniższa tabela przedstawia dane dotyczące komunikacji miejskiej w Krakowie. M
 
 ![Autobus](https://www.transport-publiczny.pl//img/20230706170631Solarisurbino12electricmpkkrakow.jpg)
 ![Tramwaj](https://www.transport-publiczny.pl//img/20221230172414lajkonik2tramwajekrakow.jpg_678-443.jpg)
+![Logo]((IMG/MPK.png)
