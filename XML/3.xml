@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportkrakow>
+    <trams 
+        owner='Miejskie Przedsiębiorstwo Komunikacyjne SA w Krakowie'
+        origin='Kraków'
+    >
+        <availability>Most of the city</availability>
+        <ticketing>MPK Tickets</ticketing>
+        <pricing>Cheap</pricing>
+        <long-term-tickets>Available</long-term-tickets>
+        <delays>Unlikely</delays>
+        <crowd>Medium</crowd>
+    </trams>
+    
+    <buses
+        owner='Miejskie Przedsiębiorstwo Komunikacyjne SA w Krakowie'
+        origin='Kraków'
+    >
+        <availability>Most of the city</availability>
+        <ticketing>MPK Tickets</ticketing>
+        <pricing>Cheap</pricing>
+        <long-term-tickets>Available</long-term-tickets>
+        <delays></delays>
+        <crowd>Big</crowd>
+    </buses>
+
+    <trains
+        owner='Polregio/PKP/Koleje Małopolskie'
+        origin='Poland'
+    >
+        <availability>Only in major POI's</availability>
+        <ticketing>Carrier Dependant</ticketing>
+        <pricing>Destination Dependant</pricing>
+        <long-term-tickets>Available</long-term-tickets>
+        <delays>Very likely</delays>
+        <crowd>Medium</crowd>
+    </trains>
+
+    <private-drivers
+        owner='Uber/Bolt/FreeNow'
+        origin='US/Estonia/Germany'
+    >
+        <availability>Entire City</availability>
+        <ticketing>Individual</ticketing>
+        <pricing>Expensive</pricing>
+        <long-term-tickets>Unavailable</long-term-tickets>
+        <delays>None</delays>
+        <crowd>None</crowd>
+    </private-drivers>
+</transportkrakow>
